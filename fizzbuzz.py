@@ -1,0 +1,2 @@
+i
+print('Python works!')
